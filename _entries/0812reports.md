@@ -3,5 +3,5 @@ sectionid: s-ledger
 sectionclass: h2
 title: Stock ledger
 parent-id: reports
-number: 8120
+number: 81200
 ---

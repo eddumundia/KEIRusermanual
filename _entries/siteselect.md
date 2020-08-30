@@ -4,100 +4,13 @@ sectionclass: h1
 title: Site selection
 number: 3000
 ---
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
 
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
+### Site selection
 
-Docster is perfect for really long and complex as well as short and simple Docs.
+In some instances, after login, users will be prompted for site selection. Follow the steps as shown in the gif below.
 
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
+<img src="/img/gif/siteselect.gif" width="100%" />
 
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
+After login;
+Select current site from the selection, the name of the site will appear at left corner of the menu bar.
+If wrong site selected, click on the name, list of available sites will po up then go ahead and select the appropriate site. If current site is not among the list, kindly contact data supervisor or the system admnistrator.

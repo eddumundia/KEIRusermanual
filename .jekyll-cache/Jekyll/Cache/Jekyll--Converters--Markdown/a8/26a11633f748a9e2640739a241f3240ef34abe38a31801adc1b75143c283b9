@@ -1,0 +1,55 @@
+I"/<h3 id="introduction">Introduction</h3>
+
+<p>This document is meant to guide users to navigate through the system effectively. It also doubles up as a guide to the trainers as they take users through the system.
+It follows a step-by-step procedure of performing the major functionalities that are undertaken in the KEIR process flow. These include: -</p>
+<ul>
+	<li>1.	Registering and vaccination</li>
+	<ul>
+			<li>a.	Searching a child/mother.</li>
+			<li>b.	Registering a mother if mot found</li>
+			<li>c.	Linking a child to the mother</li>
+			<li>d.	Registering a child if not present in the database.</li>
+			<li>e.	Queuing a child for vaccination</li>
+			<li>f.	Registering the vaccine administered.</li>
+			<li>g.	Registering the anthropometric measurement</li>
+			<li>h.	De queue the child.</li>
+			<li>i.	Data cleaning.</li>
+	</ul>
+
+	<li>2.	Stock</li>
+	<ul></ul>
+	a.	Updating the stock ledger.
+	b.	Performing physical count.
+	c.	Receiving vaccines.
+	d.	Issuance of vaccine.
+	e.	Returning vaccine to the main fridge.
+	<li>3.	Reports.</li>
+	<ul></ul>
+	a.	Check on daily reports.
+	b.	Updating CWC.
+	c.	Check on MOH710A.
+	d.	Check on CHANIS.
+	e.	Check on permanent register.
+	f.	Check on MOH 710B.
+	g.	Check on vaccines.
+	h.	Check on refusals.
+	i.	Check on Stockouts.
+	j.	Monitor defaulters.
+	k.	Check on stock ledger reports.
+	l.	Check on MNPS reports.
+	<li>4.	Data synchronization</li>
+	<ul></ul>
+	a.	Data collection.
+	b.	Uploading the collected data
+	c.	Quality Control.
+</ul>
+
+<p>URL
+URL refers to the path to access the system. This is typed on a computer browser url e.g. Mozilla fireworks, Internet explorer, chrome, safaris etc. or through a shortcut created by the system developer, study coordinator or anyone capable of creating the shortcut.
+http://localhost/keir/web
+or
+http://uat/keir/web
+or
+http://fieldapps/keir/web</p>
+
+:ET

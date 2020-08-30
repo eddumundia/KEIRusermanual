@@ -5,86 +5,14 @@ title: Search
 is-parent: yes
 number: 4000
 ---
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
 
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
+### Search
 
-Docster is perfect for really long and complex as well as short and simple Docs.
+At the top, next to menu bar, search bar is displayed. This will be a section for users to search barcode by either typing or scanning the barcode. 
 
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
+A record will be diplayed of the child. The barcode sticker is place on page four(4) of the childs booklet.
 
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
+If record is not found, kindly use the advance search as explained in advance search section.
 
-Docster is perfect for really long and complex as well as short and simple Docs.
 
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
-
-Welcome to this demo (and documentation) of Docster. A Documentation Theme for jekyll. 
-
-Here we'll show you what the theme looks like and how you will use it. Docster makes setting up an organized Documentation a breeze.
-It has a sidebar, that is a table of contents and consists of links, that will scroll you to the respective section.
-
-Docster is perfect for really long and complex as well as short and simple Docs.
+<img src="/img/gif/search.gif" width="100%" />

@@ -1,0 +1,61 @@
+I"<h3 id="introduction">Introduction</h3>
+
+<p>This document is meant to guide users to navigate through the system effectively. It also doubles up as a guide to the trainers as they take users through the system.
+It follows a step-by-step procedure of performing the major functionalities that are undertaken in the KEIR process flow. These include: -</p>
+<ol>
+  <li>Registering and vaccination
+    <ul>
+      <li>a.	Searching a child/mother.</li>
+      <li>b.	Registering a mother if mot found</li>
+      <li>c.	Linking a child to the mother</li>
+      <li>d.	Registering a child if not present in the database.</li>
+      <li>e.	Queuing a child for vaccination</li>
+      <li>f.	Registering the vaccine administered.</li>
+      <li>g.	Registering the anthropometric measurement</li>
+      <li>h.	De queue the child.</li>
+      <li>i.	Data cleaning.</li>
+    </ul>
+  </li>
+  <li>Stock
+    <ul>
+      <li>a.	Updating the stock ledger.</li>
+      <li>b.	Performing physical count.</li>
+      <li>c.	Receiving vaccines.</li>
+      <li>d.	Issuance of vaccine.
+e.	Returning vaccine to the main fridge.</li>
+    </ul>
+  </li>
+  <li>Reports.
+    <ul>
+      <li>a.	Check on daily reports.</li>
+      <li>b.	Updating CWC.</li>
+      <li>c.	Check on MOH710A.</li>
+      <li>d.	Check on CHANIS.</li>
+      <li>e.	Check on permanent register.</li>
+      <li>f.	Check on MOH 710B.</li>
+      <li>g.	Check on vaccines.</li>
+      <li>h.	Check on refusals.</li>
+      <li>i.	Check on Stockouts.</li>
+      <li>j.	Monitor defaulters.</li>
+      <li>k.	Check on stock ledger reports.</li>
+      <li>l.	Check on MNPS reports.</li>
+    </ul>
+  </li>
+  <li>Data synchronization
+    <ul>
+      <li>a.	Data collection.</li>
+      <li>b.	Uploading the collected data</li>
+      <li>c.	Quality Control.</li>
+    </ul>
+  </li>
+</ol>
+
+<p>URL
+URL refers to the path to access the system. This is typed on a computer browser url e.g. Mozilla fireworks, Internet explorer, chrome, safaris etc. or through a shortcut created by the system developer, study coordinator or anyone capable of creating the shortcut.
+	* http://localhost/keir/web
+	or
+	* http://uat/keir/web
+	or
+	* http://fieldapps/keir/web</p>
+
+:ET
